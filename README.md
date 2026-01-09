@@ -7,4 +7,5 @@
 💻 **Languages:** Mainly **C** & **Python**  
 
 ✨ Feel free to explore or leave a star ⭐
+
 ✨ Let's build and learn together !
